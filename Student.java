@@ -6,7 +6,7 @@ public class Student {
         int a=scanner.nextInt();
         int b=scanner.nextInt();
         int c=scanner.nextInt();
-        System.out.println(max(1,2,3));
+        System.out.println(max(a,b,c));
     }
     public static int max(int a, int b, int c) {
         int max = a;
