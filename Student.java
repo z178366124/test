@@ -10,8 +10,8 @@ public class Student {
     }
     public static int max(int a, int b, int c) {
         int max = a;
-        if (a > max) {
-            max = a;
+        if (c > max) {
+            max = c;
         }
         if ( b> max) {
             max = b;
